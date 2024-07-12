@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":true,"name":"初期マップ","order":1,"parentId":0,"scrollX":819,"scrollY":457},
+{"id":2,"expanded":true,"name":"宮田家1F","order":2,"parentId":0,"scrollX":811,"scrollY":457},
+{"id":3,"expanded":true,"name":"茅ヶ崎駅","order":10,"parentId":9,"scrollX":811,"scrollY":503},
+{"id":4,"expanded":true,"name":"宮田家2F","order":3,"parentId":2,"scrollX":1130,"scrollY":628},
+{"id":5,"expanded":true,"name":"電車内","order":7,"parentId":8,"scrollX":819,"scrollY":457},
+{"id":6,"expanded":false,"name":"ミニゲーム01","order":4,"parentId":4,"scrollX":819,"scrollY":457},
+{"id":7,"expanded":false,"name":"海岸","order":5,"parentId":2,"scrollX":819,"scrollY":457},
+{"id":8,"expanded":true,"name":"移動中市街地","order":6,"parentId":0,"scrollX":1326,"scrollY":712},
+{"id":9,"expanded":true,"name":"茅ヶ崎駅周辺","order":8,"parentId":0,"scrollX":869,"scrollY":511},
+{"id":10,"expanded":false,"name":"茅ヶ崎市美術館","order":9,"parentId":9,"scrollX":819,"scrollY":457},
+{"id":11,"expanded":false,"name":"初回動画","order":11,"parentId":0,"scrollX":819,"scrollY":457}
+]
